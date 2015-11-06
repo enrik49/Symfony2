@@ -1,0 +1,7 @@
+parameters:
+#    unidad3_ejercicos.example.class: Unidad3\EjercicosBundle\Example
+
+services:
+#    unidad3_ejercicos.example:
+#        class: %unidad3_ejercicos.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]

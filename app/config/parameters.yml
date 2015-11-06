@@ -1,0 +1,18 @@
+parameters:
+  database_driver: pdo_mysql
+  database_host: 127.0.0.1
+  database_port: null
+  database_name: alimentos
+  database_user: root
+  database_password: null
+
+  mailer_host: smtp.gmail.com
+  mailer_transport: gmail
+  port: 465
+  encryption: ssl
+  mailer_user: xxxchiribillo@gmail.com
+  mailer_password: giribet
+  secret: a80e4392589a5d28060a222c16cdd07da9dcbd92
+
+  locale: en
+  secret: ThisTokenIsNotSoSecretChangeIt

@@ -1,0 +1,8 @@
+unidad3_ejercicos:
+    resource: "@Unidad3EjercicosBundle/Resources/config/routing.yml"
+    prefix:   /
+
+jazzyweb_aulas_mentor_alimentos:
+    resource: "@JazzywebAulasMentorAlimentosBundle/Resources/config/routing.yml"
+    prefix:   /
+

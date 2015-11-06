@@ -1,0 +1,7 @@
+unidad3_ejercicos_homepage:
+    pattern:  /Unidad3/hello/{name}
+    defaults: { _controller: Unidad3EjercicosBundle:Default:index }
+
+unidad3_ejercicos_newReturn:
+  pattern:  /Unidad3/Newfunc
+  defaults: { _controller: Unidad3EjercicosBundle:Default:nFunc }
